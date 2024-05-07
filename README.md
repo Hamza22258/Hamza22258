@@ -6,9 +6,9 @@
 <a href="">
   <img align="left" alt="Hamza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hamza-malik-844652190/">
+<!-- <a href="https://www.linkedin.com/in/hamza-malik-844652190/">
   <img align="left" alt=Hamza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
